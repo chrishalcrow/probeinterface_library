@@ -1,4 +1,4 @@
-name: Check for new NP probes
+name: Check for changes in NP json files
 
 on:
   schedule:
