@@ -6,25 +6,25 @@
             "ndim": 2,
             "si_units": "um",
             "annotations": {
-                "model_name": "NP2021",
+                "model_name": "NP3022",
                 "manufacturer": "imec",
-                "description": "Neuropixels 2.0 multi shank probe quad base with cap (Ph 2C)",
+                "description": "Neuropixels NXT pre-alpha multishank metal cap",
                 "shank_tips": [
                     [
                         8.0,
-                        -217.0
+                        -215.0
                     ],
                     [
                         258.0,
-                        -217.0
+                        -215.0
                     ],
                     [
                         508.0,
-                        -217.0
+                        -215.0
                     ],
                     [
                         758.0,
-                        -217.0
+                        -215.0
                     ]
                 ],
                 "adc_bit_depth": 12,
@@ -92212,7 +92212,7 @@
                 ],
                 [
                     8.0,
-                    -217.0
+                    -215.0
                 ],
                 [
                     43.0,
@@ -92232,7 +92232,7 @@
                 ],
                 [
                     258.0,
-                    -217.0
+                    -215.0
                 ],
                 [
                     293.0,
@@ -92252,7 +92252,7 @@
                 ],
                 [
                     508.0,
-                    -217.0
+                    -215.0
                 ],
                 [
                     543.0,
@@ -92272,7 +92272,7 @@
                 ],
                 [
                     758.0,
-                    -217.0
+                    -215.0
                 ],
                 [
                     793.0,
